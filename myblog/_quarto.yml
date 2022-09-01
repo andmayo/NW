@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "myblog"
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - about.qmd 
+      - index_pubs.qmd
 format:
   html:
     theme: cosmo
