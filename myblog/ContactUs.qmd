@@ -1,0 +1,39 @@
+---
+title: "Contact Us"
+format:
+  html:
+    theme: default
+server: shiny
+---
+```{r setup}
+library(shiny)
+```
+
+```{r ui,}
+shinyUI (fluidPage(
+  headerPanel(title = "Leave a Comment"), 
+  sidebarPanel(
+    textInput("Name", "Enter your name"), 
+    textInput("Comment", "Let us know what you think!")
+  ), 
+  mainPanel(
+    textOutput("Name"), 
+    textOutput("Comment")
+  )
+))
+```
+
+```{r}
+#| context: server
+shinyServer(function (input, output) {
+  output$Name <- {(
+    renderText(input$Name)
+  )}
+  output$Coment <- {(
+    renderText(input$Comment)
+  )}
+}
+  )
+
+```
+

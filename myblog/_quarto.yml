@@ -10,6 +10,7 @@ website:
         file: index.qmd
       - about.qmd 
       - index_pubs.qmd
+      - ContactUs.qmd
 format:
   html:
     theme: cosmo

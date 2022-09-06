@@ -4,16 +4,17 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full
+description: This is a summary of past and current projects happening at Northwood, take a look around!
 title-block-banner: true
+toc: true
+toc-depth: 5
+toc-title: Jump to
 ---
 
-## This is a summary of past and current projects happening at Northwood, take a look around!
-
-### Current and Past Project Status 
+## Current and Past Projects
 
 ```{r setup, include=FALSE}
 
@@ -39,6 +40,7 @@ Year_long <- gather (Year, "LTC":"Corp", key = "Population", value = "Active")
 ```
 <br> 
 
+
 All these active projects can be categorized into projects withing our Long-term Care Facilities, our Community-based Older Adults, and within the Corporation itself. This graph demonstrates which group projects fall into by year. 
 
 <br> 
@@ -55,6 +57,8 @@ reactable (Year_long,
            searchable = TRUE
            )
 ```
+
+## Projects by Population 
 
 ```{r, fig.align='center'}
 #| echo: false
@@ -75,6 +79,8 @@ Figure <-
     backgroundColor = "rgba(255, 255, 255, 1)") 
 Figure
 ```
+
+## Projects by University or Organization
 
 ```{r, echo=FALSE, fig.align='center'}
 Figure2 <- 
