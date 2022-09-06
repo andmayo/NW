@@ -1,19 +1,38 @@
 ---
 title: "About"
-image: profile.jpg
+image: PF.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/A_lorenamayo
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/andmayo
 
 ---
+### Who Are We? 
+#### ***Research Associate ***
+#### Andrea manages, consults, and assits in the evaluation of research projects at Northwood. Andrea is currently working on her PhD in Health Degree at Dalhousie. Her interests include healthy aging, physical activity/exercise, and frailty management. 
+#### ***Research Advisory Counsel***
+#### The Research Advisory Counsel (RAC) is comprised of Researchers, Northwood Employees, and Northwood Clients. Once a month the team meets to discuss new and on-going research. 
 
-About this blog
+#### RAC Co-chairs: 
+* Andrea Mayo 
+* Pamela Fancy 
+
+#### The RAC memebers include: 
+* Dr. Ardra Cole 
+* Dr. Arla Day  
+* Dr. Tanya Packer 
+* Brandon Meisner 
+* John O'Keefe
+* Janet Simm 
+* Jennifer Tucker 
+* Carolyn Van Gurp 
+* Dr. Lori Weeks 
+* Dr. Shelley Weir

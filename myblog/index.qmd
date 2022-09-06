@@ -1,5 +1,5 @@
 ---
-title: "myblog"
+title: "Research Innovation & Evaluation"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +10,115 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+## This is a summary of past and current projects happening at Northwood, take a look around!
+
+### Current and Past Project Status 
+
+```{r setup, include=FALSE}
+
+library (echarts4r)
+library(dplyr)
+library(tidyr)
+library(knitr)
+library (shiny)
+library (reactable)
+knitr::opts_chunk$set(echo = TRUE)
+
+DB <- read.csv ('C:/Users/andre/Desktop/R/NW/NW/myblog/BySchool.csv')
+DB$Year <- as.factor (DB$Year)
+
+Year <- c ("15/16", "16/17", "17/18", "18/19", "19/20","20/21", "21/22")
+Total <- c (8, 11, 6, 6, 6, 10, 15)
+LTC <- c (3, 6, 5, 4, 2, 8, 11)
+Com <- c (3, 3, 1, 1, 3, 2, 3)
+Corp <- c (2, 2, 0, 1, 1, 0, 1)
+Year <- data.frame(Year, Total, LTC, Com, Corp) 
+View (Year)
+Year_long <- gather (Year, "LTC":"Corp", key = "Population", value = "Active")
+```
+<br> 
+
+All these active projects can be categorized into projects withing our Long-term Care Facilities, our Community-based Older Adults, and within the Corporation itself. This graph demonstrates which group projects fall into by year. 
+
+<br> 
+
+```{r All Studies}
+#| echo: false
+reactable (Year_long, 
+           columns = list (
+             Total = colDef(align = "center"), 
+             Population = colDef (align = "center"), 
+             Active = colDef(align = "center")
+           ), 
+           highlight = TRUE, 
+           searchable = TRUE
+           )
+```
+
+```{r, fig.align='center'}
+#| echo: false
+Figure <- 
+  Year %>%  
+  e_charts (x = Year) %>% 
+  e_line (serie = Total) %>% 
+  e_area (LTC) %>% 
+  e_area (Corp) %>% 
+  e_area (Com) %>% 
+  e_axis_labels (x = "Year", 
+                 y = "Active Projects") %>% 
+  e_title ("Active Projects by Year & Population") %>% 
+  e_theme ("infographic") %>% 
+  e_legend (right = 0) %>% 
+  e_tooltip (
+    trigger = "axis", 
+    backgroundColor = "rgba(255, 255, 255, 1)") 
+Figure
+```
+
+```{r, echo=FALSE, fig.align='center'}
+Figure2 <- 
+  DB %>% 
+  group_by(University) %>% 
+  e_chart (x = Year, stack = "grp") %>% 
+  e_bar (N) %>% 
+  e_legend (type = ("scroll"), 
+            left = 0, 
+            bottom = 0) %>% 
+  e_theme ("infographic") %>% 
+  e_tooltip (
+    trigger = "axis", 
+    backgroundColor = "rgba(255, 255, 255, 1)")  %>% 
+  e_title(
+    text = "Research Projects by Year and Institution"
+  ) %>% 
+  e_y_axis(
+    splitArea = list(show = FALSE),
+    splitLine = list(show = FALSE)
+  )
+  
+Figure2
+```
+  
+
+This document was last updated on `r Sys.Date ()`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
