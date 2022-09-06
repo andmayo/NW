@@ -1,38 +1,19 @@
 ---
-title: "About"
-image: PF.jpg
-about:
-  template: trestles
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/A_lorenamayo
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com/andmayo
+title: "Innovation & Research"
+description: Innovation and research are two of Northwood’s six pillars. 
+format:
+  html:
+    theme: default
 
 ---
-### Who Are We? 
-#### ***Research Associate ***
-#### Andrea manages, consults, and assits in the evaluation of research projects at Northwood. Andrea is currently working on her PhD in Health Degree at Dalhousie. Her interests include healthy aging, physical activity/exercise, and frailty management. 
-#### ***Research Advisory Counsel***
-#### The Research Advisory Counsel (RAC) is comprised of Researchers, Northwood Employees, and Northwood Clients. Once a month the team meets to discuss new and on-going research. 
+It all started with an idea. A desire to do something better, something new for seniors and vulnerable adults. Northwood has an over 50 year legacy of innovating, introducing and sharing interesting and inspiring new ideas, and first-time concepts into the continuing care sector.
 
-#### RAC Co-chairs: 
-* Andrea Mayo 
-* Pamela Fancy 
+As a leading organization, we investigate, integrate and contribute to the ever-expanding knowledge-base of continuing care in Canada. In our pursuit of excellence, and in challenging the status quo, we seek to establish and enhance our understanding of facts, principles and knowledge, for the betterment of our clients and the betterment of society.
 
-#### The RAC memebers include: 
-* Dr. Ardra Cole 
-* Dr. Arla Day  
-* Dr. Tanya Packer 
-* Brandon Meisner 
-* John O'Keefe
-* Janet Simm 
-* Jennifer Tucker 
-* Carolyn Van Gurp 
-* Dr. Lori Weeks 
-* Dr. Shelley Weir
+Northwood is proud of its legacy of service to the community. We have led by example and consistently pushed the boundaries of our knowledge. In order to continue to respond to the changing needs of our community, we must be willing to embrace change and encourage innovation.
+
+Northwood welcomes invitations to partner in your research, focused on aging, from all sectors and industries.
+
+**Do research with Northwood**
+
+Research is an important tool in making elder care better. Download Northwood’s tools to find out how you can get started with your research project.

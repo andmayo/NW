@@ -1,39 +1,37 @@
 ---
-title: "Contact Us"
-format:
-  html:
-    theme: default
-server: shiny
+title: "About Us"
+image: PF.jpg
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/A_lorenamayo
+    - icon: github
+      text: Github
+      href: https://github.com/andmayo
+    - text: Northwood Website
+      href: http://https://northwood.care/
 ---
-```{r setup}
-library(shiny)
-```
 
-```{r ui,}
-shinyUI (fluidPage(
-  headerPanel(title = "Leave a Comment"), 
-  sidebarPanel(
-    textInput("Name", "Enter your name"), 
-    textInput("Comment", "Let us know what you think!")
-  ), 
-  mainPanel(
-    textOutput("Name"), 
-    textOutput("Comment")
-  )
-))
-```
+### Who Are We? 
+#### ***Research Associate *** email: andrea.mayo@nwood.ns.ca
+#### Andrea manages, consults, and assits in the evaluation of research projects at Northwood. Andrea is currently working on her PhD in Health Degree at Dalhousie. Her interests include healthy aging, physical activity/exercise, and frailty management. 
+#### ***Research Advisory Counsel***
+#### The Research Advisory Counsel (RAC) is comprised of Researchers, Northwood Employees, and Northwood Clients. Once a month the team meets to discuss new and on-going research. 
 
-```{r}
-#| context: server
-shinyServer(function (input, output) {
-  output$Name <- {(
-    renderText(input$Name)
-  )}
-  output$Coment <- {(
-    renderText(input$Comment)
-  )}
-}
-  )
+#### RAC Co-chairs: 
+* Andrea Mayo 
+* Pamela Fancy 
 
-```
-
+#### The RAC memebers include: 
+* Dr. Ardra Cole 
+* Dr. Arla Day  
+* Dr. Tanya Packer 
+* Brandon Meisner 
+* John O'Keefe
+* Janet Simm 
+* Jennifer Tucker 
+* Carolyn Van Gurp 
+* Dr. Lori Weeks 
+* Dr. Shelley Weir

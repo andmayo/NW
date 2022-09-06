@@ -3,18 +3,22 @@ project:
 
 website:
   navbar:
-    background: primary
+    background: "#800000"
     search: true
     left:
       - text: "Home"
         file: index.qmd
-      - about.qmd 
-      - index_pubs.qmd
-      - ContactUs.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Publications"
+        file: index_pubs.qmd
+      - text: "Who Are We?"
+        file: ContactUs.qmd
 format:
   html:
     theme: cosmo
     css: styles.css
+    highlight-style: nord
 
 
 

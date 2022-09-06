@@ -7,27 +7,28 @@ toc: true
 toc-depth: 5
 toc-title: "Jump to Project"
 ---
+### 2022
 
-#### Experiences of residents in long-term-care homes with socially assistive technologies and the effectiveness of these technologies: a mixed methods systematic review protocol
+**Experiences of residents in long-term-care homes with socially assistive technologies and the effectiveness of these technologies: a mixed methods systematic review protocol**
 M.Macdonald et al. (2022)
 [Click here to see article](https://journals.lww.com/jbisrir/Citation/9000/Experiences_of_residents_in_long_term_care_homes.99766.aspx)
 <br> 
 
-**Objective:** 
+Objective:
 The objective of this review is to explore the experiences of residents in long-term-care homes using socially assistive technologies and the effectiveness of these technologies in relation to depression, loneliness, and social interaction.
 
-**Introduction:** 
+Introduction:
 Research related to the experiences of residents in long-term-care homes with socially assistive technologies, and their effectiveness, is limited. This population of older adults is projected to steeply increase in the future, as will the need for services, such as long-term care. Older adults (≥65) in long-term care are at increased risk of depression, loneliness, and social isolation. Therefore, there is a need to explore the experiences of long-term-care residents in the use of socially assistive technologies and to determine the effectiveness of these technologies in relation to depression, loneliness, and social interaction.
 
-**Inclusion criteria:** 
+Inclusion criteria: 
 This review will include studies about the experiences of older adults in long-term care using socially assistive technologies, and the effectiveness of these technologies. Older adults are defined as people 65 years of age and above. We will consider human-to-human socially assistive technologies, such as computers, smart phones, tablets, and associated applications. We will review quantitative, qualitative, and mixed methods studies from the inception of databases to present.
 
-**Methods:** 
+Methods:
 A JBI mixed methods convergent segregated approach will be used. Select databases and gray literature will be searched for published and unpublished studies. Titles, abstracts, and full texts of included studies will be screened by at least two reviewers, and undergo quality appraisal, data extraction, and synthesis of quantitative and qualitative data followed by integration of the two types of evidence.
  
 <br>
 
-#### Goals of Care Conversations in Long-Term Care during the First Wave of COVID-19 Pandemic
+**Goals of Care Conversations in Long-Term Care during the First Wave of COVID-19 Pandemic**
 Mallery et al. (2022)
 [Click here to see artricle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8950529/)
 <br> 
@@ -36,7 +37,9 @@ Goals of care discussions typically focus on decision maker preference and under
 
 <br>
 
-#### LGBT Housing Matters: Results of the Canadian LGBT older adults and housing project.
+### 2020
+
+**LGBT Housing Matters: Results of the Canadian LGBT older adults and housing project.**
 Gahagan et al. (2020)
 [Click here to see artricle](https://bccrns.ca/wp-content/uploads/2020/07/LGBT-Housing-Matters-2020.pdf)
 
@@ -46,14 +49,16 @@ sharing and cooperatives for LGBT Canadians, among others.
 **Focus group findings:** Fifty-two focus group participants across five cities raised a variety of housing-related concerns and discussed potential interventions to address these for older LGBT populations. Specifically, participants expressed fear of discrimination in housing as well as the intersecting barriers to safe and affordable housing. Participants envisioned housing that would address social isolation and exclusion through community-building and intergenerational housing models, programs and policies. In addition, participants reported the need for government and housing providers to ensure policies and practices are making housing more affordable, accessible, safe, and affirming for all LGBT people in keeping with the National Housing Strategy and current human rights protections. 
 <br>
 
-#### Experiences of health and aging for younger adults in long-term care: a social-ecological multi-method approach
+**Experiences of health and aging for younger adults in long-term care: a social-ecological multi-method approach**
 Barber et al. (2020)
 [Click here to see artricle](https://www.tandfonline.com/doi/abs/10.1080/09687599.2020.1751074?journalCode=cdso20)
 <br> 
 There is an increasing number of younger adults with disabilities becoming residents of long-term care (LTC) homes across Atlantic Canada. Moving younger adults into LTC is less-than-ideal and presents an immediate challenge for LTC homes to meet the unique health-related needs of younger residents. This study explored the lived experiences of younger residents in a Nova Scotian LTC setting in terms of their long-term health and aging-in-place needs. Guided by the social-ecological model, this study gathered first-person experiences through photovoice and interview methods. Eleven residents, aged 36 to 60 years, illustrated how their health and aging processes were affected by multiple interacting individual, interpersonal, and environmental factors. Participants identified how they wished to be supported within LTC to improve comprehensive health services. This study demonstrates that younger LTC residents can, and should, be part of the planning for their own specialized healthcare and housing to support positive health and aging.
 <br>
 
-#### The LEAD program and the effect of leadership on employee well-being
+### 2019
+
+**The LEAD program and the effect of leadership on employee well-being**
 Hartling et al. (2019)
 [Click here to see artricle](https://library2.smu.ca/handle/01/29134)
 <br> 
@@ -61,23 +66,25 @@ Hartling et al. (2019)
 Although transformational leadership has consistently been shown to have a positive effect on direct reports’ well-being, a focus on leaders' own well-being is lacking. Moreover, leadership interventions have been proposed as a vehicle for occupational health interventions, but there has been limited research that directly evaluates this premise. Therefore, there were three goals for this dissertation: (1) to develop a transformational leadership intervention that targets leader and direct report well-being through leadership behaviour change; (2) to evaluate the efficacy of the program in increasing transformational leadership behaviours; (3) and to determine whether and how leader and direct report well-being can be positively influenced through leadership development. The program of research consisted of two studies: Study 1 involved the development of the LEAD program anchored by SME interviews as part of a four-step content development process, and Study 2 involved evaluating the efficacy of the LEAD program. In Study 1, I identified ten themes critical to leadership program design, which became the foundation for the LEAD program. LEAD was designed as a 10-week program focusing on transformational leadership development through individualized phone-based coaching. In Study 2, I recruited 72 leaders who were assigned to either the first intervention or wait-list control group. The efficacy of the program was evaluated through Kirkpatrick's model of training evaluation criteria, using both leader self-report and direct report data. Study 2 yielded mixed results. Leaders' reactions to the LEAD program were highly positive, and there were significant overall and weekly increases in transformational leadership and efficacy (leadership and professional). However, LEAD negatively affected leader, but not direct report, well-being. Together these studies failed to convincingly demonstrate the efficacy of the program. However, the studies do contribute to the theoretical understanding of leadership, employee well-being, and the potential for leadership development as an occupational health intervention.
 <br>
 
-#### Healthcare workers ‘on the move’: making visible the employment-related geographic mobility of healthcare workers
+**Healthcare workers ‘on the move’: making visible the employment-related geographic mobility of healthcare workers**
 Jackson et al. (2019)
 [Click here to see artricle](https://www.tandfonline.com/doi/full/10.1080/14461242.2019.1659154)
 
 Many healthcare workers are ‘on the move’ as part of their employment, travelling often great distances to such places as patients’/clients’ homes and community clinics. Healthcare workers’ experiences of this employment-related geographic mobility have been relatively invisible even though mobility is necessary for home and community care. Interviews with professional (e.g. nurses) and paraprofessional (e.g. personal care assistants) healthcare workers in Nova Scotia (Canada) found that mobility includes safety risks, and health and economic costs, although a few professionals had employment contracts that helped to protect them against such risks and costs. Paraprofessionals appear to be most impacted by the economic costs given their lower incomes. Many healthcare workers also experienced travel positively, as time away from fixed sites, and associated this time with freedom. The risks of mobility were understood by some workers as part of a duty to care, but a few suggested that the health and economic costs are an undue burden, pointing to an opening for challenging these conditions. There is a need for regulations to ensure all healthcare workers are safe as they are mobile to and from fixed sites, and do not have to shoulder the health or economic costs of mobility.
-
 <br>
 
-#### Let them hear our voices, singing in harmony: A qualitative case study on a workplace choir
+### 2018
+
+**Let them hear our voices, singing in harmony: A qualitative case study on a workplace choir**
 Couture et al. (2018)
 [Click here to see artricle](https://harvest.usask.ca/handle/10388/10960)
 
 The present study was undertaken to investigate a novel example of music in a workplace setting, employees singing together. Music listening at work and music making in a choral context are typically separate areas of study in the current research literature. Music listening at work is associated with various positive emotional, psychological, and physical outcomes (Haake, 2011; Korzcynski, 2003; Lesiuk, 2005; Stachyra, 2015), as is active choral music participation and creation (Bailey & Davidson, 2005; Brisola & Cury, 2015; Clift, Nicol, Raisbreck, Whitmore, & Morrison, 2010; Merkt, 2012; Silber, 2005; Stewart & Lonsdale, 2016). In order to provide a foundational understanding of active music participation in a work context, a qualitative case study was used to explore a unique workplace choir that is maintained and managed by employees in a care home in Atlantic Canada. The motivations for implementing and maintaining such an ensemble were examined, as well as the perceived benefits of choir membership. Findings suggested that the implementation of this particular workplace choir was influenced by a rich musical culture in the province as well as strong organizational acceptance and support. Choir members reported numerous benefits encapsulated within the themes of Personal Wellbeing, Personal Growth, Purposeful Work, and Serving Others. The document concludes with implications for practice as well as future research.
+<br> 
 
-<br>
+### 2017
 
-#### BRINGING SEXY BACK: EXPLORING INTIMACY AND SEXUALITY AMONG OLDER RESIDENTS IN LONG-TERM CARE
+**BRINGING SEXY BACK: EXPLORING INTIMACY AND SEXUALITY AMONG OLDER RESIDENTS IN LONG-TERM CARE**
 Meisner & Malone (2017)
 [Click here to see artricle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6183096/)
 <br>
@@ -85,7 +92,7 @@ Continued intimate and/or sexual expression in later life improves health and we
 
 <br>
 
-#### Accentuate the positive : organizational and personal consequences of positive leadership
+**Accentuate the positive : organizational and personal consequences of positive leadership**
 Weigand (2017)
 [Click here to see artricle](https://library2.smu.ca/handle/01/27010)
 
