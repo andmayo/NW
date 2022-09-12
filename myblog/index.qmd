@@ -24,6 +24,7 @@ library(tidyr)
 library(knitr)
 library (shiny)
 library (reactable)
+library (quarto)
 knitr::opts_chunk$set(echo = TRUE)
 
 DB <- read.csv ('C:/Users/andre/Desktop/R/NW/NW/myblog/BySchool.csv')
